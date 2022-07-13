@@ -7,3 +7,5 @@ This is my method i used to install Takserver after quite a few trys.
 *****Install done as root*****
 
 *****Use Exact Server Name when creating the certificates*****
+
+The full process is in the Install file
