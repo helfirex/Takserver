@@ -8,4 +8,4 @@ This is my method i used to install Takserver after quite a few trys.
 
 *****Use Exact Server Name when creating the certificates*****
 
-The full process is in the Install file
+The full process is in the [tak server.txt](https://github.com/helfirex/Takserver/files/9099895/tak.server.txt) file
