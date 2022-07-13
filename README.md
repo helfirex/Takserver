@@ -1,4 +1,5 @@
 # Takserver
+
 This is my method i used to install Takserver after quite a few trys.
 
 *****Used CentOS-7-x86_64-DVD-2009.iso  setting minimal for install. called server "takserver" *****
